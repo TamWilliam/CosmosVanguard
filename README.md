@@ -1,4 +1,4 @@
-# CosmosVanguard
+# Cosmos Vanguard
 Le projet consiste à créer un jeu sur Unity dans le thème "Space Invader-like" mais en 2D avec un twist : c'est en multijoueur (4 joueurs max).
 On se retrouve dans l'espace avec nos 4 joueurs, tous placés à gauche de l'écran car ce sera en format paysage. La progression se fera de gauche à droite, à l'inverse des ennemies.
 L'équipage sera doté d'une arme cannon (laser parce que c'est dans l'espace) ainsi que les ennemies.
